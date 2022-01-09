@@ -1,1 +1,3 @@
 Git practice
+
+Sample for merge
