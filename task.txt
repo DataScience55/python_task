@@ -1,0 +1,173 @@
+
+
+#Task - 1
+
+Get values from the user for weight and height and calculate BMI.  
+
+BMI = weight / height^2
+
+********************************************************************************************************
+
+#Task - 2
+
+Average age = 90
+Get the value from the user for age and caculate their balance life in years, months, weeks and days
+
+
+********************************************************************************************************
+
+#   Task - 3
+
+Get the bill amount and tip they wish to give (10, 15, 20) from the customer 
+then calculate the total bill
+
+
+********************************************************************************************************
+
+Use Conditional statement (from Task 4)
+
+
+# Task - 4
+
+Get input from user and check the user input is Odd oe Even (if reminder is 0 it's even else odd)
+
+
+********************************************************************************************************
+
+
+# Task - 5
+
+Get values from the user for weight and height and calculate BMI.  
+Then use the Conditional statements for the following rule.
+
+- BMI is under 18.5 they are underweight
+- BMI is over 18.5 but below 25 they are normal weight
+- BMI is over 18.5 but below 25 they are over weight
+- BMI is over 30 but below 35 they are obese
+- BMI is above 35 they are clinically obese
+
+********************************************************************************************************
+
+Task -6
+
+Get the year from the user and check whether it's a Leaf year or Not
+
+Rue :
+
+On every year that is evenly divisiable by 4
+except every year that is evenly divisible by 100
+unless the year is also evenly divisible by 400
+
+********************************************************************************************************
+
+# Task - 7
+
+Pizza order program - get the following values from the customer and calculate final bill
+
+Small pizza - 15 $
+Medium pizza - 20 $
+Large pizza - 25 $
+
+Extra toping for Small pizza - 2 $
+Extra toping for Medium and Large pizza - 3 $
+
+Extra cheese for any size pizza - 1 $
+
+Sample input :
+
+        Size = "Large"
+        Topings = "Y"
+        Cheese = "Y"
+
+Sample output :
+
+        Your final bill : 28$
+
+********************************************************************************************************
+
+
+# Task - 8
+
+Rock, Paper, scissors game - 2 users game
+
+Rule :
+
+    Rock wins against scissors.
+
+    Scissors win against paper.
+
+    Paper wins against rock.
+
+
+********************************************************************************************************
+
+# Task - 9
+
+Write a Python program that reads two integers representing a month and day and prints the season 
+for that month and day.
+
+Seasons - winter, spring, summer, autumn
+Expected Output:
+
+Input the month (e.g. January, February etc.): july                     
+Input the day: 31                                                       
+
+Output : Season is autumn  
+
+********************************************************************************************************
+
+
+Task - 10
+
+Get 3 values from the user and find the mean of three values.
+
+********************************************************************************************************
+
+Task - 11
+
+Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+Sample value of n is 5
+Expected Result : 615
+
+********************************************************************************************************
+
+Task - 12
+
+Write a Python program to get the difference between a given number and 17, 
+if the number is greater than 17 return double the absolute difference.
+
+********************************************************************************************************
+
+Task - 13
+
+Write a Python program to calculate the sum of three given numbers, 
+if the values are equal then return three times of their sum.
+
+********************************************************************************************************
+
+Task - 14
+
+Write a program to calculate the electricity bill (get Unit input from the user) according
+to the following criteria :
+
+Unit                                    Charge
+
+First 100 Units                         No charge
+Next 100 Units                          Rs. 5 per unit
+After 200 Units                         Rs. 10 per unit
+
+Example input : 350
+output : 2000
+
+********************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
